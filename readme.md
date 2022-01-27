@@ -4,7 +4,7 @@
          width="45" />, I'm Mukund Sadani</h1>
 <h3 align="center">Nm, just obsessed with Green dots 💚</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundsadani07&label=Profile%20views&color=0e75b6&style=flat" alt="Arnav Ghate" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundsadani07&label=Profile%20views&color=0e75b6&style=flat" alt="Mukund Sadani" /> </p>
 
 <p>
 <a align= "center" href="https://github.com/mukundsadani07">
@@ -14,9 +14,9 @@
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/ArnavGhate" target="blank"><img src="https://img.shields.io/twitter/follow/ArnavGhate?logo=twitter&style=for-the-badge" alt="Arnav Ghate" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Dark_carnage07" target="blank"><img src="https://img.shields.io/twitter/follow/Dark_carnage07?logo=twitter&style=for-the-badge" alt="Mukund Sadani" /></a> </p>
 
-- 📫 How to reach me **arnav.ghate@gmail.com**
+- 📫 How to reach me **mukundsadani07@gmail.com**
 <br><br>
 <hr>
 
