@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Mukund Sadani</h1>
-<h3 align="center">Nm, just obsessed with Green dots 💚</h3>
+<h3 align="center">A Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundsadani07&label=Profile%20views&color=0e75b6&style=flat" alt="Mukund Sadani" /> </p>
 
